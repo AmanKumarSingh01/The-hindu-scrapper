@@ -4,35 +4,35 @@
 
 
 For getting national headlines with pictures
-METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/national-headlines-with-pictures/ ; payload = { pages :5}
-This will fetch the first five page of national headlines for you
+METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/national-headlines-with-pictures/ ; payload = { pages :5}\n
+This will fetch the first five page of national headlines for you\n
 Responce format : {
                       headlines ,
                       Image ,
                       Link
-                   }
+                   }\n\n\n
                    
                    
 
-For getting International headlines with pictures
-METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/international/ ; PAYLOAD = { pages :5}
-This will fetch the first five page of internatonal headlines for you
+For getting International headlines with pictures\n
+METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/international/ ; PAYLOAD = { pages :5}\n
+This will fetch the first five page of internatonal headlines for you\n
 Responce format : {
                       headlines ,
                       Image ,
                       Link
                    }
-                   
+                   \n\n\n
                    
 
-For getting Editorial headlines with pictures
-METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/editorial/ ; PAYLOAD = { pages :5}
-This will fetch the first five page of editorial headlines for you
+For getting Editorial headlines with pictures\n
+METHOD : POST ; URL = https://greatscrapper.herokuapp.com/api/editorial/ ; PAYLOAD = { pages :5}\n
+This will fetch the first five page of editorial headlines for you\n
 Responce format : {
                       headlines ,
                       Image ,
                       Link
-                   }
+                   }\n\n\n
                    
                    
 

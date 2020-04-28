@@ -1,6 +1,8 @@
 # The-hindu-scrapper
 
-****End Points****
+# News Scrapper, The Hindu Node SCRAPPER, CHERRIO, The Hindu
+
+****End Points**
 
 
 ****For getting national headlines with pictures****
